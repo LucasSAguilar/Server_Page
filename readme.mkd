@@ -1,0 +1,31 @@
+# Servindo arquivos estáticos através do backend
+
+Esse é um projeto da minha lista de coisinhas para estudar esse ano. O principal intuito é revisar a questão de fornecer arquivos estáticos para o usuário através do NodeJS
+
+Para testar o projeto basta:
+
+**CLONE O REPOSITÓRIO**
+
+`git clone https://github.com/LucasSAguilar/Server_Page.git`
+
+**INSTALE AS DEPENDÊNCIAS**
+
+`npm install`
+
+**EXECUTE O PROJETO**
+
+`node server.js`
+
+____
+# Técnologias usadas
+
+* Node
+* HTML
+* CSS
+* Express
+
+
+___
+
+Agradeço a leitura!
+
